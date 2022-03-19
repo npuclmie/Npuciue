@@ -1,4 +1,4 @@
-CONSt
+const
 CONFIG = {
     titleWeb: "Npuc iu iemmmm",
     introTitle: 'Ai vayyy',
