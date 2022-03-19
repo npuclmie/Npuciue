@@ -17,5 +17,4 @@ const CONFIG  {
     messDesc: ' CHIU MAI MINH DON CONG CHUA DI CHOI NHAAAAA ',
     btnAccept: ' OKE BBI ',
     messLink: ' https://www.facebook.com/LmieRossweise/
-Npuc iu e nhìu lắm
 }
