@@ -1,4 +1,4 @@
-Program CONST {
+const CONFIG = {
     titleWeb: "Gửi cho bạn iu <3",
     introTitle: 'Aivayyy',
     introDesc: ` trái đất vốn lạ thường
@@ -17,4 +17,4 @@ Program CONST {
     messDesc: 'U MAI MINH DON CONG CHUA DI CHOI NHAAAAA.',
     btnAccept: 'OKE BBI',
     messLink: 'https://www.facebook.com/LmieRossweise/
-} End.
+} 
