@@ -10,7 +10,7 @@ const CONFIG  {
     desc: ' PHAI CHANG EM DA SAY NGAY TU LUC THAY NU CUOI AY ',
     btnYes: ' THICH LAMMM ',
     btnNo: ' KHONG NHA ',
-    question: 'BAN IU A, BẠN CO IU MINH HONGG 🐸',
+    question: 'BAN IU A, BAN CO IU MINH HONGG 🐸',
     btnReply: 'GUI CHO BANN ❤',
     reply: 'MINH CUM IU BAN NKA ',
     mess: 'AWW MINH CUM IU BANNNN',
