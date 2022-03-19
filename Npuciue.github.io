@@ -1,4 +1,4 @@
-Program = {
+Program CONST = <
     titleWeb: "Gửi cho bạn iu <3",
     introTitle: 'Aivayyy',
     introDesc: ` trái đất vốn lạ thường
@@ -16,4 +16,5 @@ Program = {
     mess: 'AWW MINH CUM IU BANNNN',
     messDesc: 'U MAI MINH DON CONG CHUA DI CHOI NHAAAAA.',
     btnAccept: 'OKE BBI',
-    messLink: 'https://www.facebook.com/LmieRossweise/}
+    messLink: 'https://www.facebook.com/LmieRossweise/
+>
