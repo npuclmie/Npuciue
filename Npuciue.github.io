@@ -17,5 +17,5 @@ const CONFIG = {
     messDesc: 'Chiu mai minh don cong chua di choi dut honggg ',
     btnAccept: 'Okee lun <3',
     messLink: 'https://www.facebook.com/LmieRossweise/
-}
 Npuc iu e nhiu lam
+}
