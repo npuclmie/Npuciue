@@ -1,4 +1,4 @@
-const CONFIG  {
+const config = {
     titleWeb: "Gửi cho bạn iu <3",
     introTitle: 'Aivayyy',
     introDesc: ` trái đất vốn lạ thường
