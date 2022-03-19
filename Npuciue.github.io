@@ -14,7 +14,7 @@ const CONFIG  {
     btnReply: 'GUI CHO BANN ❤',
     reply: 'MINH CUM IU BAN NKA',
     mess: 'AWW MINH CUM IU BANNNN',
-    messDesc: 'CHÌU MAI MINH DON CONG CHUA DI CHOI NHAAAAA',
+    messDesc: 'U MAI MINH DON CONG CHUA DI CHOI NHAAAAA.',
     btnAccept: 'OKE BBI',
     messLink: 'https://www.facebook.com/LmieRossweise/
 }
