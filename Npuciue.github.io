@@ -5,17 +5,17 @@ const CONFIG  {
      mà sao em cứ đi nhầm đường
      lạc vào tim anh lẻ loi
      đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Kekeke:33',
-    title: ' Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: ' Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: ' Thích lắm ',
-    btnNo: ' Không nha :3',
-    question: 'Bạn iu à, bạn có thích mình hongg 🐸',
+    btnIntro: 'Kekeke^^',
+    title: ' PHẢI CHẲNG EM ĐÃ YÊU NGAY TỪ CÁI NHÌN ĐẦU TIÊN 🥰',
+    desc: ' PHẢI CHẲNG EM ĐÃ SAY NGAY TỪ LÚC THẤY NỤ CƯỜI ẤY ',
+    btnYes: ' THÍC LẮMM ',
+    btnNo: ' KHÔNG NHA ',
+    question: 'BẠN IU À, BẠN CÓ IU MÌNH HONGG 🐸',
     btnReply: 'Gửi cho bạn ❤',
-    reply: 'Mình cũm iu b lắm nèe ',
-    mess: 'ỏo minh cũm iu bạnnnn',
-    messDesc: ' Chìu mai mình đón công chúa đi chơi đựt honggg ',
-    btnAccept: ' Okee lun ',
+    reply: 'MÌNH CŨM IU BẠN NKA ',
+    mess: 'ỎO MÌNH CŨM IU BẠNNNN',
+    messDesc: ' CHÌU MAI MÌNH ĐÓN CÔNG CHÚA ĐI CHƠI NHAAAAA ',
+    btnAccept: ' OKE BBI ',
     messLink: ' https://www.facebook.com/LmieRossweise/
 Npuc iu e nhìu lắm
 }
