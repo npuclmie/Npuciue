@@ -1,17 +1,20 @@
 const CONFIG = {
-    titleWeb: "Gui cho ai do<3",
-    introTitle: 'Ban iu a',
-    introDesc: `Cailon ma m bo bua t hay gi ma t iu m du z=))`,
-    btnIntro: 'cc',
-    title: 'Ban a, Minh iu b zlonnn <3',
-    desc: ' B lam ny minh nkaaa <3',
+    titleWeb: "Npuc iu iemmmm",
+    introTitle: 'Ai vayyy',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'Kekekekek=))))',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Minh thuc su iu b vailonnn <3',
+    question: 'Ban iu a, ban co thich minh hongg :<',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'ah um minh cum iu b nhiu  <33333333',
-    mess: 'Ooooo minh cum iu b lam do dinnnn=333',
-    messDesc: 'Chieu mai ban cho phep minh don ban di choi nha:>>.',
-    btnAccept: 'Oke lun tk  <3',
+    reply: 'Minh cum iu b lam neeeeeeeeeeee <33333333',
+    mess: 'Oooooooooooooo minh cum iu bannnn',
+    messDesc: 'Chiu mai minh don cong chua di choi dut honggg.',
+    btnAccept: 'Okee lun <3',
     messLink: 'https://www.facebook.com/LmieRossweise/
 }
