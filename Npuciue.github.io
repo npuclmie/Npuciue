@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'AWW MINH CUM IU BANNNN',
     messDesc: 'U MAI MINH DON CONG CHUA DI CHOI NHAAAAA.',
     btnAccept: 'OKE BBI',
-    messLink: 'https://www.facebook.com/LmieRossweise/
+    messLink: 'https://www.facebook.com/pphhuuccbaka/'
 }
